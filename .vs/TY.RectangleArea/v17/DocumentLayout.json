@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tommy\\OneDrive\\Documents\\School\\Classes\\2025-2026\\Fall - 2025\\Computer Programing C\u002B\u002B\\Week 2\\Assignments\\TY.RectangleArea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{624296E5-DB88-4373-8B3E-44BC6B5E6254}|TY.RectangleArea.UI\\TY.RectangleArea.UI.vcxproj|C:\\Users\\tommy\\OneDrive\\Documents\\School\\Classes\\2025-2026\\Fall - 2025\\Computer Programing C\u002B\u002B\\Week 2\\Assignments\\TY.RectangleArea\\TY.RectangleArea.UI\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{624296E5-DB88-4373-8B3E-44BC6B5E6254}|TY.RectangleArea.UI\\TY.RectangleArea.UI.vcxproj|solutionrelative:TY.RectangleArea.UI\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\tommy\\OneDrive\\Documents\\School\\Classes\\2025-2026\\Fall - 2025\\Computer Programing C\u002B\u002B\\Week 2\\Assignments\\TY.RectangleArea\\TY.RectangleArea.UI\\Source.cpp",
+              "RelativeDocumentMoniker": "TY.RectangleArea.UI\\Source.cpp",
+              "ToolTip": "C:\\Users\\tommy\\OneDrive\\Documents\\School\\Classes\\2025-2026\\Fall - 2025\\Computer Programing C\u002B\u002B\\Week 2\\Assignments\\TY.RectangleArea\\TY.RectangleArea.UI\\Source.cpp",
+              "RelativeToolTip": "TY.RectangleArea.UI\\Source.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T22:34:54.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
